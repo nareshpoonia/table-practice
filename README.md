@@ -20,4 +20,4 @@ This is for practicing basic HTML Table
 
 ## Acknowledgments
 
-[MDN](https://developer.mozilla.org/en-US/) for making such beautiful webdocks
+[MDN](https://developer.mozilla.org/en-US/) for making such beautiful web docs
