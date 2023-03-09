@@ -4,7 +4,6 @@ This is for practicing basic HTML Table
 
 ## Table of contents
 
-- [Built with](#built-with)
 - [What I learned](#what-i-learned)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
